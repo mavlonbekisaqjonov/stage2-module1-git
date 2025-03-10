@@ -1,0 +1,24 @@
+From 08d86ceafbeca2784e44f0f852264035fe47a949 Mon Sep 17 00:00:00 2001
+From: Mavlonbek Isaqjonov <mavlonbekisaqjonov222@gmail.com>
+Date: Mon, 10 Mar 2025 11:55:02 +0500
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ src/main/java/com/epam/git/firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/src/main/java/com/epam/git/firstFile.txt b/src/main/java/com/epam/git/firstFile.txt
+index 488d4d9..4cc5238 100644
+--- a/src/main/java/com/epam/git/firstFile.txt
++++ b/src/main/java/com/epam/git/firstFile.txt
+@@ -6,5 +6,5 @@ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++Added firstFile.txt
++Added firstFile.txt
+-- 
+2.47.1.windows.1
+
