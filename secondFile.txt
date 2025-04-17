@@ -8,3 +8,5 @@ Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1 (the change)
 Added secondFile.txt to git_1 (the change)
+Added secondFile.txt to git_1 (change)
+Added secondFile.txt to git_1 (change)
